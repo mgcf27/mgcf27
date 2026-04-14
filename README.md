@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Miguel
 
-[![GitHub followers](https://img.shields.io/github/followers/mgcf27?label=Follow&style=social)](https://github.com/mgcf27)
-
 ---
 
 ## 🎓 Background: Exact Sciences (with Software Engineering)
@@ -18,7 +16,7 @@ Now I'm deepening that foundation with focused, production-ready skills.
 ## 🧠 What I'm Building & Learning
 
 ### 🔧 Main Project: Assistance System
-[![Assistance System](https://github-readme-stats.vercel.app/api/pin/?username=mgcf27&repo=assistencesystem&theme=radical)](https://github.com/mgcf27/assistencesystem)
+**[Assistance System](https://github.com/mgcf27/assistencesystem)** — Backend for technical assistance service orders
 
 A backend for technical assistance service orders, built deliberately **without hiding complexity behind frameworks**:
 
@@ -43,14 +41,26 @@ SQL, pgAdmin, administration, backup/restore, indexes, views, triggers, function
 
 ## 🛠️ Current Tech Arsenal
 
-| Layer | Technologies |
-|-------|---------------|
-| **Languages** | Java (intermediate), JavaScript (intermediate), Python (basic), C (basic) |
-| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security (learning), REST APIs |
-| **Database** | PostgreSQL, Flyway, JPA/Hibernate |
-| **DevOps** | Docker (learning), Maven |
-| **Emerging** | Spring AI, Microservices |
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 
